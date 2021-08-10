@@ -2,57 +2,57 @@ SciDAVis 2.4.0 project file
 <scripting-lang>	muParser
 <windows>	2
 <table>
-2225
-<table creation_time="2021-27-07 16:12:26:000" caption_spec="%n%C{ - }%c" name="Table1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-27-07 16:12:26:818" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-27-07 16:12:26:818" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="1" invalid="no">4.1700000000000001e-02</row><row type="TypeDouble" index="2" invalid="no">3.5700000000000003e-02</row><row type="TypeDouble" index="3" invalid="no">3.1300000000000001e-02</row><row type="TypeDouble" index="4" invalid="no">2.7799999999999998e-02</row></column><column creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.8000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">4.7920000000000002e+01</row><row type="TypeDouble" index="2" invalid="no">4.7960000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">4.8539999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">4.8920000000000002e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+2373
+<table creation_time="2021-27-07 16:12:26:000" caption_spec="%n%C{ - }%c" name="Table1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-27-07 16:12:26:818" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-27-07 16:12:26:818" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="1" invalid="no">4.1700000000000001e-02</row><row type="TypeDouble" index="2" invalid="no">3.5700000000000003e-02</row><row type="TypeDouble" index="3" invalid="no">3.1300000000000001e-02</row><row type="TypeDouble" index="4" invalid="no">2.7799999999999998e-02</row><row type="TypeDouble" index="5" invalid="no">2.5000000000000001e-02</row></column><column creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-27-07 16:12:26:819" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.8000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">4.7920000000000002e+01</row><row type="TypeDouble" index="2" invalid="no">4.7960000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">4.8539999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">4.8920000000000002e+01</row><row type="TypeDouble" index="5" invalid="no">4.9250000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
 geometry	0	0	574	407	active
 
 </table>
 <multiLayer>
-Graph2	1	1	Thursday, July 29, 2021 2:32:58 AM IST
-geometry	654	86	500	400	
+Graph1	1	1	Tuesday, August 3, 2021 6:48:45 PM IST
+geometry	609	6	694	459	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
 LayerCanvasSize	418	268
 Alignement	0	0
 <graph>
-ggeometry	5	5	481	341
-PlotTitle	y = 49.746 - 39.643 1/L 	#ff000000	4
+ggeometry	5	5	674	400
+PlotTitle	B (y-intercept) = 50.239 +/- 0.5798<br>A (slope) = -51.278 +/- 15.986	#ff000000	4
 <Antialiasing>1</Antialiasing>
 Background	#ffffffff	255
 Margin	0
 Border	0	#ff000000
 grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
 EnabledAxes	1	0	1	0	
-AxesTitles	1/L	Max Percentage at which Bott Index is 0			
+AxesTitles	1/L	max percentage with Bott Index = 0			
 AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
 AxesTitleAlignment	4	4	4	4
-TitleFont	Noto Sans	12	75	0	0	0
-ScaleFont0	Noto Sans	10	75	0	0	0
-ScaleFont1	Noto Sans	10	75	0	0	0
-ScaleFont2	Noto Sans	10	75	0	0	0
-ScaleFont3	Noto Sans	10	75	0	0	0
-AxisFont0	Noto Sans	10	50	0	0	0
-AxisFont1	Noto Sans	10	50	0	0	0
-AxisFont2	Noto Sans	10	50	0	0	0
-AxisFont3	Noto Sans	10	50	0	0	0
+TitleFont	Noto Sans	14	75	0	0	0
+ScaleFont0	Noto Sans	12	75	0	0	0
+ScaleFont1	Noto Sans	12	75	0	0	0
+ScaleFont2	Noto Sans	12	75	0	0	0
+ScaleFont3	Noto Sans	12	75	0	0	0
+AxisFont0	Noto Sans	12	50	0	0	0
+AxisFont1	Noto Sans	12	50	0	0	0
+AxisFont2	Noto Sans	12	50	0	0	0
+AxisFont3	Noto Sans	12	50	0	0	0
 EnabledTickLabels	1	1	1	1	
 AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
 AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
 AxesBaseline	0	0	0	0	
 CanvasBackground	#ffffffff	255
 curve	Table1_1	Table1_2	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	0	1	0	64		2	0	0	29	1
-FunctionCurve	0,LinearFit1,x,0.0278,0.05	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	-1129053392	22081	1
+FunctionCurve	0,LinearFit1,x,0.025,0.05	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	0	1	16	64		2	0	1827898080	21988	1
 <formula>
-B=49.7466932075228
-A=-39.6432495314419
+B=50.2392271956712
+A=-51.2783128795619
 
 A*x+B
 </formula>
-scale	0	47.6	49	0	8	5	0	0
-scale	1	47.8	49	0	8	5	0	0
-scale	2	0.025	0.055	0	8	5	0	0
-scale	3	0.025	0.055	0	8	5	0	0
+scale	0	47.5	49.5	0	8	5	0	0
+scale	1	47.8	49.4	0	8	5	0	0
+scale	2	0.02	0.055	0	8	5	0	0
+scale	3	0.02	0.055	0	8	5	0	0
 LabelsFormat	0	4	0	4	0	4	0	4	
 AxisType	0	0	0	0	
 MajorTicks	1	1	1	1	
@@ -83,5 +83,15 @@ A (slope) = -39.6432495314419 +/- 17.9922636798666
 --------------------------------------------------------------------------------------
 Chi^2 = 0.300536614748271
 R^2 = 0.618065505860778
+---------------------------------------------------------------------------------------
+[Tuesday, August 3, 2021 6:48:55 PM IST	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_2, using function: A*x+B
+Y standard errors: Unknown
+From x = 0.025 to x = 0.05
+B (y-intercept) = 50.2392271956712 +/- 0.579766091816708
+A (slope) = -51.2783128795619 +/- 15.9869233157975
+--------------------------------------------------------------------------------------
+Chi^2 = 0.445259132637636
+R^2 = 0.720047910401888
 ---------------------------------------------------------------------------------------
 </log>
