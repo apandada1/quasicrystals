@@ -1,0 +1,16 @@
+LineUp[x_] := ((1 + Sqrt[5])/2)^-1*(x - 1) + 3
+LineDn[x_] := ((1 + Sqrt[5])/2)^-1*(x - 2) + 2
+
+renormalized the Hamiltonian
+HamiltonianWSM[1., 1., 4, 1, kzVector[[p]], 0]
+where kzVector has 101 points between -pi, pi
+
+Definition
+
+HamiltonianWSM[t_, t0_, m_, tz_, kz_, \[Alpha]_] := 
+ t*(KroneckerProduct[SX2D + \[Alpha]*SX2DP, \[Sigma]1] + 
+     KroneckerProduct[SY2D + \[Alpha]*SY2DP, \[Sigma]2]) + 
+  KroneckerProduct[
+   2*Cons - 
+    t0*(CX2D + CY2D + \[Alpha]*CX2DP + \[Alpha]*CY2DP), \[Sigma]3] + 
+  KroneckerProduct[(tz *Cos[kz] - m)*Cons, \[Sigma]3]
