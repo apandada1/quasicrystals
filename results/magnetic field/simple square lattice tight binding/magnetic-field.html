@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+<style>
+@charset "utf-8";
+
+/**
+ * markdown.css
+ *
+ * This program is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation, either version 3 of the License, or (at your option) any
+ * later version.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this program. If not, see http://gnu.org/licenses/lgpl.txt.
+ *
+ * @project      Weblog and Open Source Projects of Florian Wolters
+ * @version      GIT: $Id$
+ * @package      xhtml-css
+ * @author       Florian Wolters <florian.wolters.85@googlemail.com>
+ * @copyright    2012 Florian Wolters
+ * @cssdoc       version 1.0-pre
+ * @license      http://gnu.org/licenses/lgpl.txt GNU Lesser General Public License
+ * @link         http://github.com/FlorianWolters/jekyll-bootstrap-theme
+ * @media        all
+ * @valid        true
+ */
+
+img {
+	max-width: 100%;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid #EAEAEA;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+tr:nth-child(even) {
+	background-color: #F8F8F8;
+}
+
+body {
+    font-family: Helvetica, Arial, Freesans, clean, sans-serif;
+    padding:1em;
+    margin:auto;
+    max-width:42em;
+    background:#fefefe;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h1 {
+    color: #000000;
+    font-size: 28px;
+}
+
+h2 {
+    border-bottom: 1px solid #CCCCCC;
+    color: #000000;
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+h5 {
+    font-size: 14px;
+}
+
+h6 {
+    color: #777777;
+    background-color: inherit;
+    font-size: 14px;
+}
+
+hr {
+    height: 0.2em;
+    border: 0;
+    color: #CCCCCC;
+    background-color: #CCCCCC;
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+    margin: 15px 0;
+}
+
+code, pre {
+    border-radius: 3px;
+    background-color: #F8F8F8;
+    color: inherit;
+}
+
+code {
+    border: 1px solid #EAEAEA;
+    margin: 0 2px;
+    padding: 0 5px;
+}
+
+pre {
+    border: 1px solid #CCCCCC;
+    line-height: 1.25em;
+    overflow: auto;
+    padding: 6px 10px;
+}
+
+pre > code {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+a, a:visited {
+    color: #4183C4;
+    background-color: inherit;
+    text-decoration: none;
+}
+
+
+figure figcaption {
+    text-align: center;
+    font-size: 12px;
+}#‚U
+</style>
+</head>
+<body>
+<div class="document">
+<div class="header"></div><div class="inner">
+<h2 id="toc_1">Magnetic Field</h2>
+
+<h3 id="toc_1.1">Pierls&#39; substitution</h3>
+
+<p>Hoppings are modified as,
+\(t_{ij} \rightarrow t_{ij} e^{i\frac{e}{\hbar}\int_i^j \vec{A} \cdot d\vec{r}}\)</p>
+
+<p>\(\vec{B} = B \hat{z}\). We choose gauges \(\vec{A}_1 = (-By, 0, 0)\) 
+and \(\vec{A}_2 = (0, Bx, 0)\).</p>
+
+<p>Since the gauge choice breaks translational symmetry, we use <em>Open Boundary Conditions</em>.</p>
+
+<p>Set \(e = \hbar = 1\).</p>
+
+<h3 id="toc_1.2">Tight binding on a 2D square lattice with a single orbital per site</h3>
+
+<p>\(h(k_x, k_y) = cos(k_x) + cos(k_y)\)</p>
+
+<h4 id="toc_1.2.1">\(B = 0.5\)</h4>
+
+<p><img src="B=0pt5.png" alt="simplest-case"> </p>
+
+<p>We can plot a histogram to see the density of states.</p>
+
+<p><img src="B=0pt5-histogram.png" alt="simplest-case-hist"></p>
+
+<p>The eigenvalues are same upto \(10^{-14}\) order for both the gauges.</p>
+
+<h4 id="toc_1.2.2">The spacing increases with magnetic field</h4>
+
+<p>\(B = 1\)</p>
+
+<p><img src="B=1.png" alt="simplest-case"> </p>
+
+<p><img src="B=1-histogram.png" alt="simplest-case-hist"></p>
+
+<h3 id="toc_1.3">Weyl Semimetals</h3>
+
+<p>\( h = t \sin{k_x} \sigma_x + t \sin{k_y} \sigma_y + \sigma_z (t_1 (\cos{k_x} + \cos{k_y}) - m + cos(k_z))\)</p>
+
+<p>First we fix \(k_z = \frac{\pi}{2}\), so that there is no hopping along \(z\) (Chern insulator).
+Also, \(t = t_1 = m = 1\).</p>
+
+<p><u>For <em>zero magnetic field</em></u></p>
+
+<p><img src="Chern-Insu-m=1-B=0-histogram.png" alt=""></p>
+
+<p>For \(B =1\), the spectrum shifts towards negative energies, and there are Landau levels.</p>
+
+<p><img src="Chern-Insu-m=1-B=1-histogram.png" alt=""></p>
+
+<p><img src="Chern-Insu-m=1-B=1-energies.png" alt=""></p>
+
+<p>If we plot the energy eigenvalues as  function of \(k_z\), we get a plot like the following.
+<img src="WSM-m=1-EvsKz.png" alt="EvskzWSM"></p>
+
+<h3 id="toc_1.4">Chern insulator and Quasicrystal</h3>
+
+<h4 id="toc_1.4.1">Thin quasicrystal strip</h4>
+
+<p>We fix the same parameters as in the previous Hamiltonian, and turn off hopping along \(z\).
+For a thin quasicrystal strip, the Landau levels are not very prominent.
+\[y_{up} = \frac{2}{\sqrt{5}+1}(x-1)+4\]</p>
+
+<p>\[y_{down} = \frac{2}{\sqrt{5}+1}(x-2)+2\]</p>
+
+<p><img src="thin-strip-lattice.png" alt=""></p>
+
+<p><sup> \(9.2 \%\) of sites are inside the quasicrtstal </sup></p>
+
+<p><img src="thin-strip.png" alt=""></p>
+
+<p><img src="thin-strip-energies.png" alt=""></p>
+
+<p><sup> Landau levels are not very prominent </sup></p>
+
+<h4 id="toc_1.4.2">Thick strip</h4>
+
+<p>\[y_{up} = \frac{2}{\sqrt{5}+1}(x-1)+10\]</p>
+
+<p>\[y_{down} = \frac{2}{\sqrt{5}+1}(x-2)-4\]</p>
+
+<p><img src="thick-strip-lattice.png" alt=""></p>
+
+<p><img src="thick-strip.png" alt=""></p>
+
+<p><img src="thick-strip-energies.png" alt=""></p>
+</div>
+</div>
+<script>renderMathInElement(document.body);</script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+</body>
+</html>
