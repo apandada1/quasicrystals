@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="plot3a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.64068997"
+     inkscape:cx="566.57669"
+     inkscape:cy="522.09339"
+     inkscape:window-width="1600"
+     inkscape:window-height="863"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g897">
+    <sodipodi:guide
+       position="25.295154,304.85023"
+       orientation="1,0"
+       id="guide9" />
+    <sodipodi:guide
+       position="74.93698,238.6193"
+       orientation="1,0"
+       id="guide15" />
+    <sodipodi:guide
+       position="125.12292,215.4001"
+       orientation="1,0"
+       id="guide17" />
+    <sodipodi:guide
+       position="175.07568,269.47831"
+       orientation="1,0"
+       id="guide19" />
+    <sodipodi:guide
+       position="100.09502,228.2781"
+       orientation="1,0"
+       id="guide21" />
+    <sodipodi:guide
+       position="-13.231871,171.92177"
+       orientation="0,-1"
+       id="guide23" />
+    <sodipodi:guide
+       position="-27.040347,164.46173"
+       orientation="0,-1"
+       id="guide28609" />
+    <sodipodi:guide
+       position="-26.114526,179.63998"
+       orientation="0,-1"
+       id="guide36636" />
+    <sodipodi:guide
+       position="43.917803,172.9523"
+       orientation="0,-1"
+       id="guide75" />
+    <sodipodi:guide
+       position="44.045313,170.04946"
+       orientation="0,-1"
+       id="guide77" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g82">
+      <g
+         id="g897"
+         inkscape:export-filename="/home/archisman/Documents/GitHub/quasicrystals/plots/plots for paper/plot3a.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <g
+           id="g164"
+           inkscape:export-filename="/home/archisman/Documents/GitHub/quasicrystals/plots/plots for paper/plot3a.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.281446px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 14.77737,125.33742 H 184.25882 Z"
+             id="path58" />
+          <text
+             xml:space="preserve"
+             style="font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="41.405609"
+             y="120.09784"
+             id="text1585"><tspan
+               sodipodi:role="line"
+               id="tspan1583"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="41.405609"
+               y="120.09784">B = <tspan
+   style="font-style:normal"
+   id="tspan9843">0</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="139.52489"
+             y="119.86295"
+             id="text1585-7"><tspan
+               sodipodi:role="line"
+               id="tspan1583-5"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="139.52489"
+               y="119.86295">B = 0</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="77.612572"
+             y="119.86295"
+             id="text1585-7-3"><tspan
+               sodipodi:role="line"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="77.612572"
+               y="119.86295"
+               id="tspan4908">B = <tspan
+   style="font-style:normal"
+   id="tspan11141">-1</tspan></tspan><tspan
+               sodipodi:role="line"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="77.612572"
+               y="128.6824"
+               id="tspan6601" /></text>
+          <text
+             xml:space="preserve"
+             style="font-size:7.05556px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="103.70786"
+             y="119.96887"
+             id="text1585-7-3-9"><tspan
+               sodipodi:role="line"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="103.70786"
+               y="119.96887"
+               id="tspan4908-1">B = <tspan
+   style="font-style:normal"
+   id="tspan13165">1</tspan></tspan><tspan
+               sodipodi:role="line"
+               style="font-style:italic;font-size:7.05556px;stroke-width:0.264583"
+               x="103.70786"
+               y="128.78833"
+               id="tspan6601-2" /></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="25.295153"
+             y="136.22438"
+             id="text26094"><tspan
+               sodipodi:role="line"
+               id="tspan26092"
+               style="stroke-width:0.264583"
+               x="25.295153"
+               y="136.22438">-4</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="71.650948"
+             y="136.21356"
+             id="text26094-7"><tspan
+               sodipodi:role="line"
+               id="tspan26092-0"
+               style="stroke-width:0.264583"
+               x="71.650948"
+               y="136.21356">-2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="97.580147"
+             y="136.21356"
+             id="text26094-7-9"><tspan
+               sodipodi:role="line"
+               id="tspan26092-0-3"
+               style="stroke-width:0.264583"
+               x="97.580147"
+               y="136.21356">0</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="119.10581"
+             y="136.29857"
+             id="text26094-7-9-6"><tspan
+               sodipodi:role="line"
+               id="tspan26092-0-3-2"
+               style="stroke-width:0.264583"
+               x="119.10581"
+               y="136.29857"> 2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.264583"
+             x="166.32343"
+             y="136.41199"
+             id="text26094-7-9-61"><tspan
+               sodipodi:role="line"
+               id="tspan26092-0-3-8"
+               style="stroke-width:0.264583"
+               x="166.32343"
+               y="136.41199"> 4</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 14.77737,125.33742 10.517784,7.20085 z"
+             id="path36671" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 25.295154,117.36002 -10.517784,7.9774 z"
+             id="path36673" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 175.07568,117.36002 9.18314,7.9774 -9.18314,7.20085 9.18314,-7.20085 z"
+             id="path36675" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 25.295154,126.95054 c 0,-2.90284 0,-2.90284 0,-2.90284 v 1.03053 z"
+             id="path420" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 74.936979,126.95054 V 124.0477 Z"
+             id="path422" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 100.09502,126.95054 V 124.0477 Z"
+             id="path424" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 125.12292,126.95054 V 124.0477 Z"
+             id="path621" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 175.07568,126.95054 V 124.0477 Z"
+             id="path623" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
