@@ -1,6 +1,6 @@
-1. Gridlines between black-black, blue-blue and blue-black to represent H11,H22,H12 
+1. ~~Gridlines between black-black, blue-blue and blue-black to represent H11,H22,H12~~ 
 
-2. Same picture with dislocation center
+2. ~~Same picture with dislocation center~~
 
 3. LDoS plots for edge states - endpoint modes for 
 four values m = 1,-1,3,-3 --same colorbar
