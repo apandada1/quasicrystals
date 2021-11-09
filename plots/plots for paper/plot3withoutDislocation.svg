@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="plot3.svg"
-   inkscape:export-filename="/home/archisman/Documents/GitHub/quasicrystals/plots/plots for paper/plot3.png"
+   sodipodi:docname="plot3withoutDislocation.svg"
+   inkscape:export-filename="/home/archisman/Documents/GitHub/quasicrystals/plots/plots for paper/plot3monocolor.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,7 +29,7 @@
      showgrid="false"
      height="160mm"
      inkscape:zoom="0.60667088"
-     inkscape:cx="545.60061"
+     inkscape:cx="547.24895"
      inkscape:cy="290.93205"
      inkscape:window-width="1600"
      inkscape:window-height="863"
@@ -313,6 +313,89 @@
          xlink:href="data:image/png;base64,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"
          id="image3210" />
     </mask>
+    <g
+       id="g585">
+      <symbol
+         overflow="visible"
+         id="glyph0-0-3">
+        <path
+           style="stroke:none;"
+           d="M 0.875 3.1875 L 0.875 -12.6875 L 9.875 -12.6875 L 9.875 3.1875 Z M 1.890625 2.203125 L 8.890625 2.203125 L 8.890625 -11.65625 L 1.890625 -11.65625 Z M 1.890625 2.203125 "
+           id="path555-6" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-1-7">
+        <path
+           style="stroke:none;"
+           d="M 3.4375 -1.5 L 9.640625 -1.5 L 9.640625 0 L 1.3125 0 L 1.3125 -1.5 C 1.984375 -2.171875 2.890625 -3.109375 4.0625 -4.296875 C 5.21875 -5.46875 5.953125 -6.234375 6.265625 -6.5625 C 6.828125 -7.203125 7.21875 -7.734375 7.453125 -8.1875 C 7.671875 -8.625 7.796875 -9.078125 7.796875 -9.484375 C 7.796875 -10.1875 7.546875 -10.765625 7.0625 -11.203125 C 6.5625 -11.625 5.921875 -11.859375 5.140625 -11.859375 C 4.59375 -11.859375 4 -11.75 3.390625 -11.578125 C 2.75 -11.375 2.109375 -11.09375 1.40625 -10.6875 L 1.40625 -12.46875 C 2.109375 -12.765625 2.765625 -12.984375 3.40625 -13.125 C 4.015625 -13.28125 4.59375 -13.359375 5.109375 -13.359375 C 6.46875 -13.359375 7.546875 -13.015625 8.359375 -12.328125 C 9.15625 -11.640625 9.578125 -10.75 9.578125 -9.609375 C 9.578125 -9.078125 9.46875 -8.546875 9.265625 -8.0625 C 9.078125 -7.59375 8.6875 -7.015625 8.171875 -6.375 C 8.015625 -6.1875 7.5625 -5.703125 6.765625 -4.890625 C 5.96875 -4.09375 4.875 -2.953125 3.4375 -1.5 Z M 3.4375 -1.5 "
+           id="path558" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-2-5">
+        <path
+           style="stroke:none;"
+           d="M 5.703125 -11.953125 C 4.8125 -11.953125 4.109375 -11.5 3.65625 -10.609375 C 3.1875 -9.703125 2.96875 -8.359375 2.96875 -6.53125 C 2.96875 -4.734375 3.1875 -3.390625 3.65625 -2.484375 C 4.109375 -1.578125 4.8125 -1.140625 5.703125 -1.140625 C 6.625 -1.140625 7.328125 -1.578125 7.78125 -2.484375 C 8.25 -3.390625 8.484375 -4.734375 8.484375 -6.53125 C 8.484375 -8.359375 8.25 -9.703125 7.78125 -10.609375 C 7.328125 -11.5 6.625 -11.953125 5.703125 -11.953125 Z M 5.703125 -13.359375 C 7.1875 -13.359375 8.3125 -12.765625 9.09375 -11.609375 C 9.859375 -10.4375 10.234375 -8.75 10.234375 -6.53125 C 10.234375 -4.34375 9.859375 -2.640625 9.09375 -1.46875 C 8.3125 -0.328125 7.1875 0.265625 5.703125 0.265625 C 4.25 0.265625 3.109375 -0.328125 2.34375 -1.46875 C 1.5625 -2.640625 1.171875 -4.34375 1.171875 -6.53125 C 1.171875 -8.75 1.5625 -10.4375 2.34375 -11.609375 C 3.109375 -12.765625 4.25 -13.359375 5.703125 -13.359375 Z M 5.703125 -13.359375 "
+           id="path561-3" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-3-5">
+        <path
+           style="stroke:none;"
+           d="M 2.234375 -1.5 L 5.125 -1.5 L 5.125 -11.5 L 1.96875 -10.875 L 1.96875 -12.46875 L 5.109375 -13.125 L 6.875 -13.125 L 6.875 -1.5 L 9.78125 -1.5 L 9.78125 0 L 2.234375 0 Z M 2.234375 -1.5 "
+           id="path564" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph1-0-6">
+        <path
+           style="stroke:none;"
+           d="M 1.171875 0 L 1.171875 -15.1875 L 8.296875 -15.1875 L 8.296875 0 Z M 2.375 -1.171875 L 7.125 -1.171875 L 7.125 -14 L 2.375 -14 Z M 2.375 -1.171875 "
+           id="path567-2" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph1-1-9">
+        <path
+           style="stroke:none;"
+           d="M 10.03125 -4.15625 L 1.046875 -4.15625 L 1.046875 -5.71875 L 10.03125 -5.71875 Z M 10.03125 -4.15625 "
+           id="path570" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph1-2-1">
+        <path
+           style="stroke:none;"
+           d="M 3.171875 3.796875 L 1.734375 3.796875 L 1.734375 -13.578125 L 3.171875 -13.578125 Z M 3.171875 3.796875 "
+           id="path573-2" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph1-3-7">
+        <path
+           style="stroke:none;"
+           d="M 10.03125 -6.21875 L 1.046875 -6.21875 L 1.046875 -7.765625 L 10.03125 -7.765625 Z M 10.03125 -2.078125 L 1.046875 -2.078125 L 1.046875 -3.625 L 10.03125 -3.625 Z M 10.03125 -2.078125 "
+           id="path576" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph2-0-0">
+        <path
+           style="stroke:none;"
+           d="M 0.875 3.1875 L 0.875 -12.6875 L 9.875 -12.6875 L 9.875 3.1875 Z M 1.890625 2.203125 L 8.890625 2.203125 L 8.890625 -11.65625 L 1.890625 -11.65625 Z M 1.890625 2.203125 "
+           id="path579-9" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph2-1-3">
+        <path
+           style="stroke:none;"
+           d="M 3.03125 -13.125 L 7.5625 -13.125 C 8.796875 -13.125 9.71875 -12.890625 10.328125 -12.421875 C 10.9375 -11.96875 11.25 -11.28125 11.25 -10.375 C 11.25 -9.515625 10.984375 -8.78125 10.453125 -8.171875 C 9.9375 -7.5625 9.234375 -7.203125 8.390625 -7.078125 C 9.125 -6.890625 9.671875 -6.59375 10.03125 -6.125 C 10.390625 -5.671875 10.5625 -5.046875 10.5625 -4.265625 C 10.5625 -2.953125 10.078125 -1.90625 9.109375 -1.140625 C 8.140625 -0.375 6.796875 0 5.109375 0 L 0.46875 0 Z M 3.453125 -6.265625 L 2.53125 -1.453125 L 5.375 -1.453125 C 6.46875 -1.453125 7.296875 -1.6875 7.859375 -2.203125 C 8.4375 -2.6875 8.734375 -3.359375 8.734375 -4.265625 C 8.734375 -4.96875 8.546875 -5.46875 8.15625 -5.78125 C 7.78125 -6.109375 7.15625 -6.265625 6.3125 -6.265625 Z M 4.5 -11.640625 L 3.75 -7.703125 L 6.375 -7.703125 C 7.328125 -7.703125 8.0625 -7.90625 8.59375 -8.3125 C 9.125 -8.734375 9.375 -9.28125 9.375 -10.03125 C 9.375 -10.578125 9.21875 -11 8.859375 -11.265625 C 8.5 -11.515625 7.921875 -11.640625 7.125 -11.640625 Z M 4.5 -11.640625 "
+           id="path582" />
+      </symbol>
+    </g>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -380,7 +463,7 @@
                   <g
                      id="g2962"
                      inkscape:label="3bm=3Size32x32LineUp5LineDn3monocolor"
-                     transform="matrix(0.48148148,0,0,0.48148148,42.18929,70.981454)">
+                     transform="matrix(0.48148148,0,0,0.48148148,42.188442,70.981454)">
                     <g
                        id="g2964" />
                     <g
@@ -406,7 +489,7 @@
                   <g
                      id="g3078"
                      inkscape:label="3bm=-1Size32x32LineUp5LineDn3monocolor"
-                     transform="matrix(0.48148148,0,0,0.48148148,42.18929,130.98045)">
+                     transform="matrix(0.48148148,0,0,0.48148148,42.188442,130.98045)">
                     <g
                        id="g3080" />
                     <g
@@ -432,7 +515,7 @@
                   <g
                      id="g3194"
                      inkscape:label="3bm=1Size32x32LineUp5LineDn3monocolor"
-                     transform="matrix(0.48148148,0,0,0.48148148,42.18929,100.98045)">
+                     transform="matrix(0.48148148,0,0,0.48148148,42.188442,100.98045)">
                     <g
                        id="g3196" />
                     <g
@@ -453,6 +536,246 @@
                              id="image3212" />
                         </g>
                       </g>
+                    </g>
+                  </g>
+                  <g
+                     id="surface6464"
+                     transform="matrix(0.46603467,0,0,0.46603467,23.302202,3.0716928)">
+                    <path
+                       style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
+                       d="M 38.824219,111.24609 H 321.17578"
+                       id="path589-6" />
+                    <path
+                       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
+                       d="m 285.88281,111.24609 h 25.75391"
+                       id="path591-0" />
+                    <path
+                       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
+                       d="m 310.30469,107.45703 0.21093,0.42969 0.46485,1.03516 0.24219,0.62109 0.21484,0.62891 0.14844,0.58203 0.0508,0.49218 -0.0508,0.44532 -0.14844,0.57422 -0.21484,0.64843 -0.24219,0.66407 -0.46485,1.1289 -0.21093,0.48047 14.40234,-3.94141 z m 0,0"
+                       id="path593-6" />
+                    <path
+                       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
+                       d="M 74.117188,111.24609 H 48.363281"
+                       id="path595-2" />
+                    <path
+                       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
+                       d="m 49.695312,115.03516 -0.210937,-0.42969 -0.464844,-1.03516 -0.242187,-0.62109 -0.214844,-0.62891 -0.148438,-0.58203 -0.05078,-0.49219 0.05078,-0.44531 0.148438,-0.57422 0.214844,-0.64843 0.242187,-0.66407 0.464844,-1.1289 0.210937,-0.48047 -14.402343,3.9414 z m 0,0"
+                       id="path597-6" />
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g601">
+                      <use
+                         xlink:href="#glyph0-1-7"
+                         x="244.86386"
+                         y="139.73534"
+                         id="use599"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g605">
+                      <use
+                         xlink:href="#glyph0-2-5"
+                         x="174.26785"
+                         y="139.73534"
+                         id="use603"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g609">
+                      <use
+                         xlink:href="#glyph1-1-9"
+                         x="98.15239"
+                         y="139.73534"
+                         id="use607"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g613">
+                      <use
+                         xlink:href="#glyph0-1-7"
+                         x="109.22239"
+                         y="139.73534"
+                         id="use611"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g617">
+                      <use
+                         xlink:href="#glyph1-2-1"
+                         x="106.94989"
+                         y="117.48611"
+                         id="use615"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g621">
+                      <use
+                         xlink:href="#glyph1-2-1"
+                         x="177.51588"
+                         y="117.48611"
+                         id="use619"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g625">
+                      <use
+                         xlink:href="#glyph1-2-1"
+                         x="248.10089"
+                         y="117.48611"
+                         id="use623"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g629">
+                      <use
+                         xlink:href="#glyph2-1-3"
+                         x="268.45047"
+                         y="95.236893"
+                         id="use627"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g633">
+                      <use
+                         xlink:href="#glyph1-3-7"
+                         x="280.79547"
+                         y="95.236893"
+                         id="use631"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g637">
+                      <use
+                         xlink:href="#glyph0-2-5"
+                         x="291.86548"
+                         y="95.236893"
+                         id="use635"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g641">
+                      <use
+                         xlink:href="#glyph2-1-3"
+                         x="56.685776"
+                         y="95.236893"
+                         id="use639"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g645">
+                      <use
+                         xlink:href="#glyph1-3-7"
+                         x="69.030769"
+                         y="95.236893"
+                         id="use643"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g649">
+                      <use
+                         xlink:href="#glyph0-2-5"
+                         x="80.100769"
+                         y="95.236893"
+                         id="use647"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g653">
+                      <use
+                         xlink:href="#glyph2-1-3"
+                         x="121.73477"
+                         y="95.236893"
+                         id="use651"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g659">
+                      <use
+                         xlink:href="#glyph1-3-7"
+                         x="134.084"
+                         y="95.236893"
+                         id="use655"
+                         width="100%"
+                         height="100%" />
+                      <use
+                         xlink:href="#glyph1-1-9"
+                         x="145.16101"
+                         y="95.236893"
+                         id="use657"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g663">
+                      <use
+                         xlink:href="#glyph0-3-5"
+                         x="156.22401"
+                         y="95.236893"
+                         id="use661"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g667">
+                      <use
+                         xlink:href="#glyph2-1-3"
+                         x="197.858"
+                         y="95.236893"
+                         id="use665"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g671">
+                      <use
+                         xlink:href="#glyph1-3-7"
+                         x="210.20724"
+                         y="95.236893"
+                         id="use669"
+                         width="100%"
+                         height="100%" />
+                    </g>
+                    <g
+                       style="fill:#000000;fill-opacity:1"
+                       id="g675">
+                      <use
+                         xlink:href="#glyph0-3-5"
+                         x="221.27724"
+                         y="95.236893"
+                         id="use673"
+                         width="100%"
+                         height="100%" />
                     </g>
                   </g>
                 </g>
@@ -2125,230 +2448,6 @@
                    x="0"
                    y="0"
                    id="tspan1379">2</tspan></text>
-            </g>
-          </g>
-          <g
-             id="surface187098"
-             transform="matrix(0.43477636,0,0,0.43477636,10.878456,-8.5835229)">
-            <path
-               style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.25;stroke-opacity:1"
-               d="M 21.175781,88.996094 3.53125,111.24609 l 17.644531,22.25 -17.644531,-22.25 h 352.9375 l -17.64453,22.25 17.64453,-22.25 -17.64453,-22.249996"
-               id="path3900" />
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3904">
-              <use
-                 xlink:href="#glyph0-1"
-                 x="244.86386"
-                 y="139.73534"
-                 id="use3902"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3908">
-              <use
-                 xlink:href="#glyph0-2"
-                 x="174.26785"
-                 y="139.73534"
-                 id="use3906"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3912">
-              <use
-                 xlink:href="#glyph1-1"
-                 x="98.15239"
-                 y="139.73534"
-                 id="use3910"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3916">
-              <use
-                 xlink:href="#glyph0-1"
-                 x="109.22239"
-                 y="139.73534"
-                 id="use3914"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3920">
-              <use
-                 xlink:href="#glyph1-2"
-                 x="106.94989"
-                 y="117.48611"
-                 id="use3918"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3924">
-              <use
-                 xlink:href="#glyph1-2"
-                 x="177.51588"
-                 y="117.48611"
-                 id="use3922"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3928">
-              <use
-                 xlink:href="#glyph1-2"
-                 x="248.10089"
-                 y="117.48611"
-                 id="use3926"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3932">
-              <use
-                 xlink:href="#glyph2-1"
-                 x="268.45047"
-                 y="95.236893"
-                 id="use3930"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3936">
-              <use
-                 xlink:href="#glyph1-3"
-                 x="280.79547"
-                 y="95.236893"
-                 id="use3934"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3940">
-              <use
-                 xlink:href="#glyph0-2"
-                 x="291.86548"
-                 y="95.236893"
-                 id="use3938"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3944">
-              <use
-                 xlink:href="#glyph2-1"
-                 x="56.685776"
-                 y="95.236893"
-                 id="use3942"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3948">
-              <use
-                 xlink:href="#glyph1-3"
-                 x="69.030769"
-                 y="95.236893"
-                 id="use3946"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3952">
-              <use
-                 xlink:href="#glyph0-2"
-                 x="80.100769"
-                 y="95.236893"
-                 id="use3950"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3956">
-              <use
-                 xlink:href="#glyph2-1"
-                 x="121.73477"
-                 y="95.236893"
-                 id="use3954"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3962">
-              <use
-                 xlink:href="#glyph1-3"
-                 x="134.084"
-                 y="95.236893"
-                 id="use3958"
-                 width="100%"
-                 height="100%" />
-              <use
-                 xlink:href="#glyph1-1"
-                 x="145.16101"
-                 y="95.236893"
-                 id="use3960"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3966">
-              <use
-                 xlink:href="#glyph0-3"
-                 x="156.22401"
-                 y="95.236893"
-                 id="use3964"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3970">
-              <use
-                 xlink:href="#glyph2-1"
-                 x="197.858"
-                 y="95.236893"
-                 id="use3968"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3974">
-              <use
-                 xlink:href="#glyph1-3"
-                 x="210.20724"
-                 y="95.236893"
-                 id="use3972"
-                 width="100%"
-                 height="100%" />
-            </g>
-            <g
-               style="fill:#000000;fill-opacity:1"
-               id="g3978">
-              <use
-                 xlink:href="#glyph0-3"
-                 x="221.27724"
-                 y="95.236893"
-                 id="use3976"
-                 width="100%"
-                 height="100%" />
             </g>
           </g>
         </g>
