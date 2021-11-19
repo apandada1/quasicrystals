@@ -1,0 +1,175 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5854,        165]
+NotebookOptionsPosition[      4863,        144]
+NotebookOutlinePosition[      5255,        160]
+CellTagsIndexPosition[      5212,        157]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ValFibonMPm1OBC", " ", "=", " ", 
+   RowBox[{
+   "Import", "[", "\"\<m=-1QuasiEnergiesPerfectLatticeOBC.dat\>\"", "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.846261299235775*^9, 
+  3.846261330325665*^9}},ExpressionUUID->"5d9a4d2f-21c8-477c-adc8-\
+7cbe1004168d"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ValFibonMPm1PBC", " ", "=", " ", 
+   RowBox[{
+   "Import", "[", "\"\<m=-1QuasiEnergiesPerfectLatticePBC.dat\>\"", "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.846261336170909*^9, 
+  3.8462613382924013`*^9}},ExpressionUUID->"e9bb7a7b-695f-4f40-982c-\
+c97ee846701c"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ValFibonMPm3OBC", " ", "=", " ", 
+   RowBox[{
+   "Import", "[", "\"\<m=-1QuasiEnergiesPerfectLatticeOBC.dat\>\"", "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.846261343431066*^9, 
+  3.846261348138214*^9}},ExpressionUUID->"d4afc941-08b2-4f20-8429-\
+b89ad82321c7"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ValFibonMPm3PBC", " ", "=", " ", 
+   RowBox[{
+   "Import", "[", "\"\<m=-1QuasiEnergiesPerfectLatticePBC.dat\>\"", "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.846261354589237*^9, 
+  3.846261358321878*^9}},ExpressionUUID->"931f75be-dd45-4a43-885d-\
+3fd0fc730f1a"],
+
+Cell[BoxData[
+ RowBox[{"A1", " ", "=", " ", 
+  RowBox[{"Show", "[", 
+   RowBox[{"ListPlot", "[", 
+    RowBox[{"ValFibonMPm1OBC", " ", ",", 
+     RowBox[{"Frame", "\[Rule]", " ", "True"}], ",", 
+     RowBox[{"Axes", "\[Rule]", " ", "False"}], ",", 
+     RowBox[{"BaseStyle", "\[Rule]", " ", "16"}], ",", 
+     RowBox[{"PlotStyle", "\[Rule]", " ", "Red"}], ",", 
+     RowBox[{"FrameStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"PlotRange", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"All", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"-", "4"}], ",", "4"}], "}"}]}], "}"}]}]}], "]"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.846261372936961*^9, 
+  3.846261383612782*^9}},ExpressionUUID->"46f7a557-319b-4dda-8714-\
+3e4c9133191b"],
+
+Cell[BoxData[
+ RowBox[{"A2", " ", "=", " ", 
+  RowBox[{"Show", "[", 
+   RowBox[{"ListPlot", "[", 
+    RowBox[{"ValFibonMPm1PBC", " ", ",", 
+     RowBox[{"Frame", "\[Rule]", " ", "True"}], ",", 
+     RowBox[{"Axes", "\[Rule]", " ", "False"}], ",", 
+     RowBox[{"BaseStyle", "\[Rule]", " ", "16"}], ",", 
+     RowBox[{"PlotStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"FrameStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"PlotRange", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"All", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"-", "4"}], ",", "4"}], "}"}]}], "}"}]}]}], "]"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.8462613872218122`*^9, 
+  3.846261390757662*^9}},ExpressionUUID->"ad94c492-59db-4b65-87aa-\
+edd45401f8b8"],
+
+Cell[BoxData[
+ RowBox[{"A3", " ", "=", " ", 
+  RowBox[{"Show", "[", 
+   RowBox[{"ListPlot", "[", 
+    RowBox[{"ValFibonMPm3OBC", " ", ",", 
+     RowBox[{"Frame", "\[Rule]", " ", "True"}], ",", 
+     RowBox[{"Axes", "\[Rule]", " ", "False"}], ",", 
+     RowBox[{"BaseStyle", "\[Rule]", " ", "16"}], ",", 
+     RowBox[{"PlotStyle", "\[Rule]", " ", "Red"}], ",", 
+     RowBox[{"FrameStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"PlotRange", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"All", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"-", "4"}], ",", "4"}], "}"}]}], "}"}]}]}], "]"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.8462613931437283`*^9, 
+  3.846261398012031*^9}},ExpressionUUID->"beeabcc4-5602-4de5-839e-\
+c3f5d039fee0"],
+
+Cell[BoxData[
+ RowBox[{"A4", " ", "=", " ", 
+  RowBox[{"Show", "[", 
+   RowBox[{"ListPlot", "[", 
+    RowBox[{"ValFibonMPm3PBC", " ", ",", 
+     RowBox[{"Frame", "\[Rule]", " ", "True"}], ",", 
+     RowBox[{"Axes", "\[Rule]", " ", "False"}], ",", 
+     RowBox[{"BaseStyle", "\[Rule]", " ", "16"}], ",", 
+     RowBox[{"PlotStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"FrameStyle", "\[Rule]", " ", "Black"}], ",", 
+     RowBox[{"PlotRange", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"All", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"-", "4"}], ",", "4"}], "}"}]}], "}"}]}]}], "]"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.8462614012479267`*^9, 
+  3.846261405154592*^9}},ExpressionUUID->"d149a677-722b-41ea-b362-\
+339bd516c674"]
+},
+WindowSize->{1200., 647.25},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"12.3 for Linux x86 (64-bit) (July 9, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"f00a978f-3953-496c-9013-6b8c1714b423"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 303, 8, 29, "Input",ExpressionUUID->"5d9a4d2f-21c8-477c-adc8-7cbe1004168d"],
+Cell[864, 30, 305, 8, 29, "Input",ExpressionUUID->"e9bb7a7b-695f-4f40-982c-c97ee846701c"],
+Cell[1172, 40, 303, 8, 29, "Input",ExpressionUUID->"d4afc941-08b2-4f20-8429-b89ad82321c7"],
+Cell[1478, 50, 303, 8, 29, "Input",ExpressionUUID->"931f75be-dd45-4a43-885d-3fd0fc730f1a"],
+Cell[1784, 60, 764, 19, 29, "Input",ExpressionUUID->"46f7a557-319b-4dda-8714-3e4c9133191b"],
+Cell[2551, 81, 768, 19, 29, "Input",ExpressionUUID->"ad94c492-59db-4b65-87aa-edd45401f8b8"],
+Cell[3322, 102, 766, 19, 29, "Input",ExpressionUUID->"beeabcc4-5602-4de5-839e-c3f5d039fee0"],
+Cell[4091, 123, 768, 19, 29, "Input",ExpressionUUID->"d149a677-722b-41ea-b362-339bd516c674"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
