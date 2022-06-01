@@ -1,0 +1,6 @@
+60x60 PTB
+OBC (given that the X,Y matrices are not periodic, it does not mattehr whether we are using PBC or OBC)
+take one line parallel to the two lines within the bulk
+show variation of chern number on the line
+
+Then shrink the size of PTB from 20% to 8%
