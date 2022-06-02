@@ -1,0 +1,121 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3620,        113]
+NotebookOptionsPosition[      2798,         89]
+NotebookOutlinePosition[      3200,        105]
+CellTagsIndexPosition[      3157,        102]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[{
+ "This notebook calls ",
+ StyleBox["Local_Chern _Number _QAHI _projected _Brane.nb ",
+  FontSlant->"Italic"],
+ "and evaluates it for different values of m0 and L"
+}], "Item",
+ CellChangeTimes->{{3.863144820216393*^9, 
+  3.863144846425186*^9}},ExpressionUUID->"75e1fd18-a394-4ee6-9d04-\
+a4f5413fdbd9"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"CreateDirectory", "[", "\"\<dataPTB\>\"", "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.863145506312211*^9, 3.8631455481323566`*^9}},
+ CellLabel->"In[6]:=",ExpressionUUID->"768955b1-e81d-430c-9c23-9cb39f233193"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "CreateDirectory", "eexist", 
+   "\"\\!\\(\\*RowBox[{\\\"\\\\\\\"/media/archisman/Home \
+Partition/archisman/Documents/GitHub/quasicrystals/local_chern_number_data/\
+dataPTB\\\\\\\"\\\"}]\\) already exists.\"", 2, 6, 3, 26641157781507104752, 
+   "Local"},
+  "MessageTemplate"]], "Message", "MSG",
+ CellChangeTimes->{3.86314554914036*^9},
+ CellLabel->
+  "During evaluation of \
+In[6]:=",ExpressionUUID->"05f88eaf-ee8b-4932-870f-e8187f32bd1b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Table", "[", 
+  RowBox[{
+   RowBox[{
+   "NotebookEvaluate", "[", 
+    "\"\<Local_Chern_Number_QAHI_projected_Brane.nb\>\"", "]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"m0", ",", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"-", "1.5"}], ",", "1.5", ",", 
+       RowBox[{"-", "1"}], ",", "1", ",", "0.5", ",", 
+       RowBox[{"-", "0.5"}]}], "}"}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"L", ",", 
+     RowBox[{"{", 
+      RowBox[{"24", ",", "28"}], "}"}]}], "}"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.8631446898608723`*^9, 3.863144738934473*^9}, 
+   3.863144849010741*^9, {3.8631451894792643`*^9, 3.863145200539909*^9}, {
+   3.863145567727427*^9, 
+   3.8631455835361843`*^9}},ExpressionUUID->"aafbb155-c599-4f19-93f4-\
+d0c5503b6430"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", "113.460947`8.50639139757181", "}"}], ",", 
+   RowBox[{"{", "123.607667`8.543590403023238", "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.863145136868668*^9, 3.863145450171139*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"42acb2f7-6a08-4543-9aa7-aae3f1773b9d"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{763.5, 389.25},
+WindowMargins->{{Automatic, -29.25}, {Automatic, 87}},
+FrontEndVersion->"13.0 for Linux x86 (64-bit) (February 4, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"003fb1f7-c3cd-4c56-a2fa-fd4fae15c923"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 316, 8, 66, "Item",ExpressionUUID->"75e1fd18-a394-4ee6-9d04-a4f5413fdbd9"],
+Cell[CellGroupData[{
+Cell[921, 34, 246, 4, 36, "Input",ExpressionUUID->"768955b1-e81d-430c-9c23-9cb39f233193"],
+Cell[1170, 40, 472, 11, 75, "Message",ExpressionUUID->"05f88eaf-ee8b-4932-870f-e8187f32bd1b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1679, 56, 772, 21, 88, "Input",ExpressionUUID->"aafbb155-c599-4f19-93f4-d0c5503b6430"],
+Cell[2454, 79, 316, 6, 41, "Output",ExpressionUUID->"42acb2f7-6a08-4543-9aa7-aae3f1773b9d"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
