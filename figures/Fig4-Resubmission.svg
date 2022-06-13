@@ -8,7 +8,7 @@
    version="1.1"
    id="svg30262"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="Fig4-Revision.svg"
+   sodipodi:docname="Fig4-Resubmission.svg"
    inkscape:export-filename="C:\Users\bitan\Desktop\Work\Inkscape_Files\Dislocation_Chern.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.86656735"
-     inkscape:cx="1272.2612"
+     inkscape:cx="482.93996"
      inkscape:cy="415.43222"
      inkscape:window-width="1600"
      inkscape:window-height="863"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g48594"
+     inkscape:current-layer="g48292"
      width="465mm"
      units="mm"
      height="210mm"
@@ -2738,16 +2738,6 @@
     <g
        id="g48292"
        transform="translate(20.108369)">
-      <use
-         xlink:href="#image131092"
-         mask="url(#mask0-2)"
-         transform="matrix(0.08666667,0,0,0.08666667,-20.108369,13.617835)"
-         id="use21139"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         style="clip-rule:nonzero" />
       <image
          width="1"
          height="1"
