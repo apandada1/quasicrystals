@@ -4,10 +4,11 @@ Preprint Link: https://arxiv.org/abs/2112.06911
 
 Journal: Submitted for peer review in Communications Physics.
 
-**Note**: These Mathematica Notebooks use relative file paths,
-and are tested to work with Mathematica 13.0 in Linux Mint 20.
+**Note**: These Mathematica Notebooks use relative file paths, 
+which usually work in GNU/Linux operating systems.
 If you are using a different operating system (especially Windows),
-you may have to edit the notebooks to use absolute file paths. 
+you may have to edit the notebooks to use absolute file paths to
+import and export the .dat files.
 
 <h2> Mathematica Notebooks <h2>
 
